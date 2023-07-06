@@ -1,0 +1,19 @@
+{
+  "name": "angular-component",
+  "version": "1.0.0",
+  "description": "Package of Helpful Angular Tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alirezahamidi/Angular-Component.git"
+  },
+  "author": "alirezahamidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alirezahamidi/Angular-Component/issues"
+  },
+  "homepage": "https://github.com/alirezahamidi/Angular-Component#readme"
+}
